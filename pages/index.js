@@ -16,7 +16,7 @@ function WelcomePage() {
         variant="primary"
       >
         <Container className="d-flex justify-content-center align-items-center">
-          <Navbar.Brand href="/" className="text-white">
+          <Navbar.Brand href="/biologar" className="text-white">
             Biologar
           </Navbar.Brand>
         </Container>
